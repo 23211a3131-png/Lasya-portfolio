@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Raavi Lasya | E-Portfolio</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Segoe UI',sans-serif;background:linear-gradient(to right,#e3f2fd,#f4f6f9);color:#333;line-height:1.6}
+header{background:#0d47a1;color:#fff;padding:40px 20px;text-align:center}
+header h1{font-size:40px;margin-bottom:10px}
+header p{font-size:18px}
+nav{background:#1565c0;padding:10px;text-align:center}
+nav a{color:#fff;text-decoration:none;margin:0 15px;font-weight:bold}
+section{padding:40px 20px;max-width:900px;margin:auto}
+h2{color:#0d47a1;margin-bottom:15px;border-bottom:3px solid #1565c0;display:inline-block;padding-bottom:5px}
+.card{background:#fff;padding:20px;margin:15px 0;border-radius:10px;box-shadow:0 4px 10px rgba(0,0,0,.08)}
+ul{margin-left:20px}
+footer{text-align:center;padding:20px;background:#0d47a1;color:#fff;margin-top:40px}
+</style>
+</head>
+<body>
+<header>
+<h1>Raavi Lasya</h1>
+<p>B.Tech – Pharmaceutical Engineering | Research Enthusiast</p>
+<p>📧 23211a3154@bvrit.ac.in | 📞 +91 9347668054</p>
+</header>
+<nav>
+<a href="#about">About</a>
+<a href="#education">Education</a>
+<a href="#skills">Skills</a>
+</nav>
+<section id="about">
+<h2>Career Objective</h2>
+<div class="card">
+<p>To pursue research-driven training in biotechnology with a focus on sustainable waste valorisation and environmental remediation, applying laboratory and analytical skills to develop biomass-derived materials for wastewater treatment while contributing to innovative and impactful research.</p>
+</div>
+</section>
+<section id="education">
+<h2>Education</h2>
+<div class="card">
+<ul>
+<li><strong>B.Tech – Pharmaceutical Engineering</strong><br>B V Raju Institute of Technology (2023–Present)<br>CGPA: 8.77</li><br>
+<li><strong>Intermediate</strong><br>Sri Chaitanya Junior College (2020–2022)<br>97.6%</li><br>
+<li><strong>CBSE 10th Grade</strong><br>Prerana Waldorf School (2020)<br>449/500</li>
+</ul>
+</div>
+</section>
+<section id="skills">
+<h2>Technical Skills</h2>
+<div class="card">
+<ul>
+<li>Activated carbon synthesis from agro-waste biomass</li>
+<li>Natural soap formulation using essential oils</li>
+<li>UV–Vis spectrophotometry & calibration curve preparation</li>
+<li>Chemical solution preparation & laboratory safety</li>
+<li>Batch documentation & compliance record keeping</li>
+<li>Scientific communication & presentation skills</li>
+</ul>
+</div>
+</section>
+<footer>© 2026 Raavi Lasya | E-Portfolio</footer>
+</body>
+</html>
